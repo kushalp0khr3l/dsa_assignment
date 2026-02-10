@@ -1,7 +1,7 @@
 
 # Documentation for program_2.c
 
-Write a program to convert an infix mathematical expression to postfix and evaluate it.
+**Q.** Write a program to convert an infix mathematical expression to postfix and evaluate it.
 
 (a) Data structures: `MAX` buffer, `CharStack { items[], top }` for operators, `IntStack { items[], top }` for evaluation.
 

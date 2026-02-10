@@ -1,6 +1,6 @@
 # Documentation for program_3.c
 
-Write and Implement the reverse traversal algorithm in the the linked list. Write main() to
+**Q.** Write and Implement the reverse traversal algorithm in the the linked list. Write main() to
 demonstrate the use of the function.
 
 ## (a) Data Structure Definition
